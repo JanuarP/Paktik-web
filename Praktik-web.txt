@@ -1,0 +1,8 @@
+Pratek web
+-HTML
+-CSS
+-JS
+-Bootstrap 5
+-React JS
+-Node JS
+-PHP
